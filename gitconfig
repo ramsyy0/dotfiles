@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = shadiaramsahye@live.com
+	email = echo $GITHUB_USERNAME
 	name = Shadia Ramsahye
